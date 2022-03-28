@@ -1,5 +1,7 @@
 # System Design: 3-Tier Web App on AWS EKS
 
+# https://kubernetes.io/docs/tutorials/stateless-application/guestbook/  (AWS EKS #-tier Deployment Manifest Files with Redis)
+
 This is a companion repo for the series of videos I created below. Please
 note that this codebase is for educational purposes only and is NOT guaranteed
 to be the best implementation for production purposes. For more technical
